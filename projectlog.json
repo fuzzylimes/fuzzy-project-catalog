@@ -5,7 +5,7 @@
     "display": "Beat-Range",
     "url": "https://beat-range.vercel.app",
     "github": "https://github.com/fuzzylimes/beat-range",
-    "image": "/images/beat-range.png",
+    "image": "./images/beat-range.png",
     "completed": "4/28/2021",
     "tags": [
       "health"
@@ -18,7 +18,7 @@
     "display": "LOOKIE-HERE!",
     "url": "https://lookie-here.vercel.app",
     "github": "https://github.com/fuzzylimes/lookie-here",
-    "image": "/images/lookie-here.png",
+    "image": "./images/lookie-here.png",
     "completed": "5/5/2021",
     "tags": [
       "maps",
@@ -32,7 +32,7 @@
     "display": "Gym Bag",
     "url": "https://gym-bag.vercel.app",
     "github": "https://github.com/fuzzylimes/gym-bag",
-    "image": "/images/gym-bag.png",
+    "image": "./images/gym-bag.png",
     "completed": "5/13/2021",
     "tags": [
       "health",
@@ -46,7 +46,7 @@
     "display": "Poké-Pack-Sim",
     "url": "https://poke-pack-sim.vercel.app",
     "github": "https://github.com/fuzzylimes/poke-pack-sim",
-    "image": "/images/poke-pack.png",
+    "image": "./images/poke-pack.png",
     "completed": "5/23/2021",
     "tags": [
       "games"
@@ -72,7 +72,7 @@
     "display": "Fox in the Woods Poker tracker",
     "url": "http://fp-table-tracker.vercel.app",
     "github": "https://github.com/fuzzylimes/fp-table-tracker",
-    "image": "/images/fp-tracker.png",
+    "image": "./images/fp-tracker.png",
     "completed": "7/14/2021",
     "tags": [
       "games"
@@ -85,7 +85,7 @@
     "display": "Burn After Reading",
     "url": "https://burn-after-reading.vercel.app",
     "github": "https://github.com/fuzzylimes/burn-after-reading",
-    "image": "/images/bar.png",
+    "image": "./images/bar.png",
     "completed": "8/8/2021",
     "tags": [
       "security",
