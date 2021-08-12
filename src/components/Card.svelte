@@ -15,7 +15,7 @@
         {#if project.image !== ''}
       <img src={project.image} alt="Project example">
       {:else}
-      <img src="/images/default.jpg" alt="No preview available">
+      <img src="./images/default.jpg" alt="No preview available">
       {/if}
     </figure>
   </div>
