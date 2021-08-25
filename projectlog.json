@@ -92,5 +92,18 @@
       "tools"
     ],
     "description": "Web app for sending secure details through a one time link."
+  },
+  {
+    "id": 8,
+    "name": "qubits",
+    "display": "QuBits",
+    "url": "https://qubits.vercel.app",
+    "github": "https://github.com/fuzzylimes/qubits",
+    "image": "./images/qubits.png",
+    "completed": "8/24/2021",
+    "tags": [
+      "tools"
+    ],
+    "description": "Web app for generating various QR codes."
   }
 ]
