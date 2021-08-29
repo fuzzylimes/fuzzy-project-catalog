@@ -105,5 +105,18 @@
       "tools"
     ],
     "description": "Web app for generating various QR codes."
+  },
+  {
+    "id": 9,
+    "name": "pomo-timer",
+    "display": "Pomodoro Timer",
+    "url": "https://pomo-timer.vercel.app",
+    "github": "https://github.com/fuzzylimes/pomo-timer",
+    "image": "./images/pomo.png",
+    "completed": "8/29/2021",
+    "tags": [
+      "tools"
+    ],
+    "description": "Web app for generating various QR codes."
   }
 ]
