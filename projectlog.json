@@ -118,5 +118,18 @@
       "tools"
     ],
     "description": "Web app to help tracking Pomodoro sessions."
+  },
+  {
+    "id": 10,
+    "name": "fair-share",
+    "display": "Fair Share",
+    "url": "https://fair-share-app.vercel.app/",
+    "github": "https://github.com/fuzzylimes/fair-share",
+    "image": "./images/fair-share.png",
+    "completed": "5/4/2022",
+    "tags": [
+      "tools"
+    ],
+    "description": "Web app to for splitting bills based on income."
   }
 ]
