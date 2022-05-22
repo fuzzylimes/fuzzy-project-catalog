@@ -131,5 +131,19 @@
       "tools"
     ],
     "description": "Web app to for splitting bills based on income."
+  },
+  {
+    "id": 11,
+    "name": "gachani",
+    "display": "GachAni",
+    "url": "https://gachani.vercel.app/",
+    "github": "https://github.com/fuzzylimes/gachani",
+    "image": "./images/gachani.png",
+    "completed": "5/22/2022",
+    "tags": [
+      "tools",
+      "anime"
+    ],
+    "description": "Web app for finding Anime recommendations."
   }
 ]
